@@ -4,3 +4,4 @@ plotly
 openpyxl
 fpdf
 streamlit-option-menu
+PyGithub
